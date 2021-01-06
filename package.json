@@ -42,7 +42,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "postcss-pxtorem": "^5.1.1",
     "qs": "^6.9.1",
     "vant": "^2.6.0",
